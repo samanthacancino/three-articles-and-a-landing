@@ -1,1 +1,1 @@
-# three-articles-and-a-landing
+A landing adjusted to a Figma design +  3 article blog filtered by custom field.
